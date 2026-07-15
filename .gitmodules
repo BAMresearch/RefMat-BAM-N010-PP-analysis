@@ -1,0 +1,3 @@
+[submodule "pyNanoRMcert_tools"]
+	path = pyNanoRMcert_tools
+	url = git@github.com:BAMresearch/pyNanoRMcert_tools.git
