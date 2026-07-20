@@ -3,5 +3,5 @@ scipy
 pandas
 matplotlib
 lmfit
-openpyxl
 notebook
+python-docx
