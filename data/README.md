@@ -1,10 +1,10 @@
 # RefMat BAM-N010 PP data
 
-This directory contains raw in-house measurement data acquired during the characterization of the BAM-N010 reference material and during the homogeneity and stability studies. The data focus on the hydrodynamic diameter of polypropylene nanoparticles and consist of instrument-generated raw data and associated measurement records. Dynamic light scattering (DLS) was used to measure the hydrodynamic diameter of the particles in accordance with ISO 22412. Data processing, statistical evaluation, and the resulting assessment of homogeneity and stability are provided in the associated analysis repository https://github.com/BAMresearch/RefMat-BAM-N010-PP-analysis.
+This directory contains raw in-house measurement data acquired during the characterization of the BAM-N010 reference material and during the homogeneity and stability studies. The data focus on the hydrodynamic diameter of polypropylene nanoparticles and consist of instrument-generated raw data and associated measurement records. Dynamic light scattering (DLS) was used to measure the hydrodynamic diameter of the particles in accordance with ISO 22412. Data processing, statistical evaluation, and the resulting assessment of homogeneity and stability are provided in the associated analysis repository: https://github.com/BAMresearch/RefMat-BAM-N010-PP-analysis
 
 ## Availability
 
-It can be found as a dataset on Zenodo: https://zenodo.org/records/22813696.
+It can be found as a dataset on Zenodo: https://zenodo.org/records/22813696
 
 ## Expected Contents
 
